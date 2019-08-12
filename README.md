@@ -1,2 +1,2 @@
-# sales_bigmart
+# Sales BigMart
 BigMart Sales Forecasting
